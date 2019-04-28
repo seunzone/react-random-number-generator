@@ -10,10 +10,10 @@ const app = express();
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: true }));
 
-app.get('/', (req, res) => {
-  res.status(200)
-    .send('Welcome Random Nuber Generator API');
-});
+// app.get('/', (req, res) => {
+//   res.status(200)
+//     .send('Welcome Random Nuber Generator API');
+// });
 
 app.get('/api/number', (req, res) => {
   try {
