@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/seunzone/react-random-number-generator.svg?branch=master)](https://travis-ci.org/seunzone/react-random-number-generator) [![Coverage Status](https://coveralls.io/repos/github/seunzone/react-random-number-generator/badge.svg?branch=master)](https://coveralls.io/github/seunzone/react-random-number-generator?branch=master) [![Built with Spacemacs](https://cdn.rawgit.com/syl20bnr/spacemacs/442d025779da2f62fc86c2082703697714db6514/assets/spacemacs-badge.svg)](http://spacemacs.org)
+
 
 ## Phone Number Generator
 This app allows a user to generate random phone numbers based on the project criterion.
