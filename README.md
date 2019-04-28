@@ -4,6 +4,8 @@
 ## Phone Number Generator
 This app allows a user to generate random phone numbers based on the project criterion.
 
+Link to the app can be found here: https://random-number-genn.herokuapp.com/
+
 
 ### Features
 - A user can generate new phone numbers
